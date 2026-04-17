@@ -170,3 +170,4 @@ print(f"\n── Connector Effect ───────────────�
 print(f"  Cumulative HIV (no connectors):   {final_hiv_no_conn:.0f}")
 print(f"  Cumulative HIV (with connectors): {final_hiv_with_conn:.0f}")
 print(f"  Increase due to STI connectors:   {pct_increase:.1f}%")
+    #returned 2.4% increase of HIV due to STI connectors
